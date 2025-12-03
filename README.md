@@ -28,8 +28,9 @@ Product listing, add to cart, theme toggle.
 ---
 
 ## 📊 GitHub Stats   
-![Fardeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fardeen077&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen077&layout=compact&theme=tokyonight)
+![Fardeen's GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Fardeen077&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Fardeen077&layout=compact&theme=tokyonight)
+
 
 
 ---
