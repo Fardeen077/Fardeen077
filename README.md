@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Fardeen Khan
+# 👋 Hi, I'm Fardeen
 
-## 👨‍💻 Full Stack Developer 
+## 👨‍💻 Full Stack Mern Developer 
 
 I love building beautiful and functional web applications.  
-Currently learning **React, Typescript, Express.js, MongoDB, and Authentication (JWT)**.
+Currently I Use **React, Typescript, Express.js, MongoDB, and Authentication (JWT)**.
 
 ---
 
@@ -27,10 +27,10 @@ Product listing, add to cart, theme toggle.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats   
 ![Fardeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fardeen077&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen077&layout=compact&theme=tokyonight)
+
 
 ---
 
