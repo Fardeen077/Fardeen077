@@ -57,20 +57,22 @@ I enjoy solving real-world problems and continuously improving my JavaScript fun
 ✔ Used MongoDB for scalable data storage with relational-like structuring
 
 ---
-🔹 Real-Time Chat Application (MERN + Socket.io)
+### 🔹 Real-Time Chat Application (MERN + Socket.io)
 ✔ One-to-one real-time messaging system using Socket.io
 ✔ Live user status (Online/Offline indicator)
 ✔ Persistent chat storage with MongoDB
 ✔ Secure authentication & session handling
 ✔ Efficient event-driven architecture
 
-🔹 AI Article Enhancer (Next.js + AI Integration)
+---
+###🔹 AI Article Enhancer (Next.js + AI Integration)
 ✔ Enhance articles using AI (grammar, clarity, readability improvement)
 ✔ Integrated AI APIs for real-time text processing
 ✔ Clean and responsive UI using React & Tailwind CSS
 ✔ Optimized API handling for fast response time
 ✔ User-friendly input/output editor interface
 
+---
 
 ## 🌐 Connect With Me  
 📩 **Email:** fardeenkhan36143@gmail.com  
