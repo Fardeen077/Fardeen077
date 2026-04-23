@@ -5,9 +5,11 @@
 ---
 
 ## 🧑‍💻 About Me  
-🌟 I love building clean, functional and user-friendly web applications.  
-🔥 Currently working with **React, TypeScript, Node.js, Express.js, MongoDB & JWT**.  
-🎯 Goal: To become a top-notch Full Stack Developer & work in a tech company.
+I am a Full Stack MERN Developer focused on building performant, scalable, and user-friendly web applications.
+I enjoy solving real-world problems and continuously improving my JavaScript fundamentals.
+
+🔥 Currently working with React, TypeScript, zustand, Node.js, Express, MongoDB, and JWT Authentication
+🎯 Goal: To secure a full-time developer role and build high-impact production-level applications
 
 ---
 
@@ -45,32 +47,39 @@
 
 ---
 
-## 📘 Featured Projects  
+## Project
+### 🔹 Role-Based Ticket Management System (MERN)
 
-### 🔹 **DashBoard (MERN)**
-✔ Login, Register , Jwt
-✔ add task, del task, edite task, getall tasks
-✔ Profile Image Upload
+✔ Implemented a complete **ticket lifecycle workflow** (Create → Assign → Resolve → Close)
+✔ **User Role:** Can create tickets and track status
+✔ **Admin Role:** Access to all tickets with filtering, search, and priority-based sorting
+✔ **Agent Role:** Assigned tickets handling and resolution
 
-### 🔹 **Profile Manager (React & redux tool kit)**   
-✔ Login, Register, Update Profile  
-✔ Profile Image Upload
+✔ Built **role-based access control (RBAC)** using JWT authentication
+✔ Designed **status-driven workflow system** instead of basic CRUD operations
+✔ Implemented advanced features:
+
+* 🔍 Search by user name
+* 🎯 Filter by status & priority
+* 📊 Centralized admin dashboard with all tickets
+
+✔ Optimized backend APIs for structured ticket handling using Node.js & Express
+✔ Used MongoDB for scalable data storage with relational-like structuring
 
 ---
+🔹 Real-Time Chat Application (MERN + Socket.io)
+✔ One-to-one real-time messaging system using Socket.io
+✔ Live user status (Online/Offline indicator)
+✔ Persistent chat storage with MongoDB
+✔ Secure authentication & session handling
+✔ Efficient event-driven architecture
 
-### 🔹 **Real-Time Chat App (MERN + Socket.io)**  
-✔ Live messaging  
-✔ Active/Offline Indicator  
-✔ MongoDB chat storage  
-✔ Secure login system
-
----
-
-### 🔹 **Sneaker E-commerce Website**  
-✔ Product listing  
-✔ Add to Cart  
-✔ Theme Toggle  
-✔ Responsive UI
+🔹 AI Article Enhancer (Next.js + AI Integration)
+✔ Enhance articles using AI (grammar, clarity, readability improvement)
+✔ Integrated AI APIs for real-time text processing
+✔ Clean and responsive UI using React & Tailwind CSS
+✔ Optimized API handling for fast response time
+✔ User-friendly input/output editor interface
 
 
 ## 🌐 Connect With Me  
