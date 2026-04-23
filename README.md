@@ -40,45 +40,45 @@ I enjoy solving real-world problems and continuously improving my JavaScript fun
 
 ### 🔹 Role-Based Ticket Management System (MERN)
 
-✔ Implemented a complete **ticket lifecycle workflow** (Create → Assign → Resolve → Close)
+- Implemented a complete **ticket lifecycle workflow** (Create → Assign → Resolve → Close)
 
-✔ **User Role:** Can create tickets and track status
-✔ **Admin Role:** Access to all tickets with filtering, search, and priority-based sorting
-✔ **Agent Role:** Assigned tickets handling and resolution
+- **User Role:** Can create tickets and track status
+- **Admin Role:** Access to all tickets with filtering, search, and priority-based sorting
+- **Agent Role:** Assigned tickets handling and resolution
 
-✔ Built **role-based access control (RBAC)** using JWT authentication
-✔ Designed **status-driven workflow system** instead of basic CRUD operations
+- Built **role-based access control (RBAC)** using JWT authentication
+- Designed **status-driven workflow system** instead of basic CRUD operations
 
-✔ Advanced Features:
+- Advanced Features:
 
 * 🔍 Search by user name
 * 🎯 Filter by status & priority
 * 📊 Centralized admin dashboard
 
-✔ Optimized backend APIs using Node.js & Express
-✔ Used MongoDB for scalable data storage
+- Optimized backend APIs using Node.js & Express
+- Used MongoDB for scalable data storage
 
 ---
 
 ### 🔹 Real-Time Chat Application (MERN + Socket.io)
 
-✔ One-to-one real-time messaging system using Socket.io
+- One-to-one real-time messaging system using Socket.io
 
-✔ Live user status (Online/Offline indicator)
-✔ Persistent chat storage with MongoDB
-✔ Secure authentication & session handling
-✔ Event-driven architecture
+- Live user status (Online/Offline indicator)
+- Persistent chat storage with MongoDB
+- Secure authentication & session handling
+- Event-driven architecture
 
 ---
 
 ### 🔹 AI Article Enhancer (Next.js + AI Integration)
 
-✔ AI-based article enhancement (grammar, clarity, readability)
+- AI-based article enhancement (grammar, clarity, readability)
 
-✔ Integrated AI APIs for real-time processing
-✔ Responsive UI using React & Tailwind CSS
-✔ Optimized API handling for performance
-✔ Clean input/output editor interface
+- Integrated AI APIs for real-time processing
+- Responsive UI using React & Tailwind CSS
+- Optimized API handling for performance
+- Clean input/output editor interface
 
 ---
 
